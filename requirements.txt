@@ -11,3 +11,4 @@ seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 plotly==2.4.1
 pandas-datareader==0.10.0
+cufflinks==0.17.3
