@@ -12,3 +12,4 @@ six==1.15.0               # via cycler, python-dateutil
 plotly==5.8.0
 pandas-datareader==0.10.0
 cufflinks==0.17.3
+sklearn=1.0.2
